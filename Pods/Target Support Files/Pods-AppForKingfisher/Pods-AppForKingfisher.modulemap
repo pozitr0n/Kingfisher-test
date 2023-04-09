@@ -1,0 +1,6 @@
+framework module Pods_AppForKingfisher {
+  umbrella header "Pods-AppForKingfisher-umbrella.h"
+
+  export *
+  module * { export * }
+}
